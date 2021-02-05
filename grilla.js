@@ -9,7 +9,7 @@ var data = {
         { leyenda: 'Calle', ordenable: true, columna: 'address.street' },
         { leyenda: 'Suite', ordenable: true, columna: 'address.suite' },
         { leyenda: 'Ciudad', ordenable: true, columna: 'address.city' },
-        { leyenda: 'ZIpcode', ordenable: true, columna: 'address.zipcode' },
+        { leyenda: 'Zipcode', ordenable: true, columna: 'address.zipcode' },
         { leyenda: 'Latitud', ordenable: true, columna: 'address.geo.lat' },
         { leyenda: 'Longitud', ordenable: true, columna: 'address.geo.lng' },
         { leyenda: 'Telefono', ordenable: true, columna: 'phone' },
